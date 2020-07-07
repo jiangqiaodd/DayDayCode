@@ -62,7 +62,7 @@
 
 为什么这么要这么刷，因为 repo 里面的题目是按类型归类，都是一些常见的高频题，很有代表性，大部分都是可以用模板加一点变形做出来，刷完后对大部分题目有基本的认识。然后刷一遍探索卡片，巩固一下一些基础知识点，总结这些知识点。最后剑指 offer 是大部分公司的出题源头，刷完面试中基本会遇到现题或者变形题，基本刷完这三部分，大部分国内公司的面试题应该就没什么问题了~
 
-1、 [algorithm-pattern 练习题](https://greyireland.gitbook.io/algorithm-pattern/)
+1、 [algorithm-pattern 练习题](https://1015328854.gitbook.io/bookshelf-xjq/)
 
 ![练习题](https://img.fuiboom.com/img/repo_practice.png)
 
