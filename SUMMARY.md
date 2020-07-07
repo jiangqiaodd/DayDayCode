@@ -2,7 +2,6 @@
 
 ## 入门篇
 
-- [go 语言入门](introduction/golang.md)
 - [算法快速入门](introduction/quickstart.md)
 
 ## 数据结构篇
