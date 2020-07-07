@@ -4,7 +4,6 @@
 
 ## 入门篇
 
-* [go 语言入门](ru-men-pian/go-yu-yan-ru-men.md)
 * [算法快速入门](ru-men-pian/quickstart.md)
 
 ## 数据结构篇
